@@ -1,23 +1,24 @@
 # falcon23k
-<h1 align="left">Hola 👋</h1>
 
-###
+<h1 align="left">Hola 👋</h1>
 
 <p align="left">Mi nombre es Noussayr y soy estudiante de Desarrollo de aplicaciones WEB.</p>
 
-###
+---
 
-<h2 align="left">Me gusta la digitalizacion y la programcion</h2>
+<h2 align="left">Me gusta la digitalización y la programación</h2>
 
-###
+---
 
-<p align="left">📚 Actualmente aprendiendo<br>🎯 Objetivos: Web developer<br>🎲programation language</p>
+<p align="left">
+📚 Actualmente aprendiendo<br>
+🎯 Objetivos: Web developer<br>
+🎲 Lenguajes de programación
+</p>
 
-###
+---
 
 <h2 align="left">I code with HTML</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -41,4 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
+---
+
+![falcon23nk's Stats](https://github-readme-stats.vercel.app/api?username=falcon23nk&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![falcon23nk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=falcon23nk&theme=vue-dark&hide_border=false)
+![falcon23nk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falcon23nk&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
