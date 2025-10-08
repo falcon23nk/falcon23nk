@@ -3,19 +3,19 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Mi nombre es Noussayr y soy estudiante de Desarrollo de aplicaciones WEB.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Me gusta la digitalizacion y la prograamcion</h2>
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo<br>🎯 Objetivos: Web developer<br>🎲 Fun fact</p>
+<p align="left">📚 Actualmente aprendiendo<br>🎯 Objetivos: Web developer<br>🎲programation language</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with HTML</h2>
 
 ###
 
