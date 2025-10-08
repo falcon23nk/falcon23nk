@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Me gusta la digitalizacion y la prograamcion</h2>
+<h2 align="left">Me gusta la digitalizacion y la programcion</h2>
 
 ###
 
